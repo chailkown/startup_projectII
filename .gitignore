@@ -1,0 +1,36 @@
+# Supabase 설정 파일 (민감한 정보 포함)
+supabase-config.json
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# React Native
+.expo/
+.expo-shared/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# OS
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build
+android/app/build/
+ios/build/
+dist/
+build/
+
