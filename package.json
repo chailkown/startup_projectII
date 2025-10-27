@@ -1,0 +1,21 @@
+{
+  "name": "fish-species-app",
+  "version": "1.0.0",
+  "description": "물고기 어종구분 및 체장 측정 앱",
+  "main": "conversation-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fish",
+    "species",
+    "measurement",
+    "react-native"
+  ],
+  "author": "chailkown",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
+
